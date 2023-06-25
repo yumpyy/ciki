@@ -11,6 +11,11 @@ r family, Compositae were first described in the year 1740. The number of specie
 daceae, and which is the larger family is unclear as the quantity of extant species in each family is unknown.
 ```
 
+## install
+```
+wget https://raw.githubusercontent.com/oleum0/ciki/main/ciki.sh
+```
+
 ## todo 
 - [ ] python verison
 - [ ] nicer look
